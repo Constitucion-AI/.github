@@ -30,5 +30,3 @@ Si estás interesado en contribuir al proyecto, ya sea con habilidades técnicas
 - **Twitter**: @ConstitucionAI
 
 Agradecemos tu interés en Constitucion-AI y esperamos que nuestro servicio te sea de gran utilidad para entender mejor las propuestas constitucionales y participar activamente en el futuro de tu país.
-
-# .github
