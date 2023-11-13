@@ -6,7 +6,7 @@ Nuestra misión en [Constitucion.ai](https://www.constitucion.ai/) es ser un cat
 ## Características
 - **Uso de Inteligencia Artificial**: Aplicamos algoritmos de aprendizaje automático y procesamiento de lenguaje natural para desglosar y analizar el contenido de las propuestas constitucionales.
 
-- **Contenido Abierto**: Nos comprometemos a utilizar fuentes de contenido abiertas para el entrenamiento de nuestros modelos, asegurando así la transparencia y la equidad en el tratamiento de la información.
+- **Contenido Abierto**: Nos comprometemos a utilizar fuentes de contenido abiertas para el entrenamiento de nuestros modelos, asegurando así la transparencia y la equidad en el tratamiento de la información. Acede a la [base de conocimiento](https://github.com/Constitucion-AI/basedeconocimiento)
 
 - **Metodología Abierta y Auditable**: La metodología de nuestro proyecto es completamente abierta y auditable, permitiendo a cualquier persona revisar y contribuir al proceso de análisis.
 
