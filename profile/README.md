@@ -1,7 +1,7 @@
 # Constitucion-AI
 
 ## Descripción
-Constitucion-AI es un proyecto innovador que utiliza las últimas tecnologías en inteligencia artificial para analizar y comprender las propuestas constitucionales. Nuestro objetivo es proporcionar una plataforma que facilite la interpretación de estos documentos complejos y promueva una mayor participación ciudadana en el proceso constituyente.
+Nuestra misión en [Constitucion.ai](https://www.constitucion.ai/) es ser un catalizador en el fomento de la democracia participativa, al proveer una plataforma intuitiva que utilice la vanguardia de la inteligencia artificial para desglosar y facilitar el acceso al contenido de la nueva propuesta constitucional de Chile. Al integrar una experiencia de usuario amigable y directa a través de WhatsApp, no solo buscamos simplificar la interacción con estos documentos cruciales, sino también fomentar una participación ciudadana activa y educada en el proceso constituyente. [Constitucion.ai](https://www.constitucion.ai/) representa un puente entre la tecnología avanzada y la comprensión ciudadana, asegurando que cada voz pueda ser informada y cada opinión, fundamentada en un conocimiento sólido y accesible.
 
 ## Características
 - **Uso de Inteligencia Artificial**: Aplicamos algoritmos de aprendizaje automático y procesamiento de lenguaje natural para desglosar y analizar el contenido de las propuestas constitucionales.
@@ -19,14 +19,14 @@ Constitucion-AI es un proyecto innovador que utiliza las últimas tecnologías e
 
 ## Acceso al Servicio
 Para acceder a Constitucion-AI:
-- **Versión Web**: Visita [URL de la plataforma web]
-- **WhatsApp**: Envía un mensaje al número [Número de WhatsApp] con la palabra clave "Constitución".
+- **Versión Web**: Visita [Constitucion.ai](https://www.constitucion.ai/)
+- **WhatsApp**: Envía un mensaje al número [WhatsApp](https://wa.me/message/26VTB42XX3HRH1) con la palabra clave "Constitución".
+- **GPT Constitucion AI**: Acede através de ChatGPT Plus al GPT personalizado [ConstitucionGPT](https://chat.openai.com/g/g-fq5CDURZh-constituciongpt)
 
 ## Contribuciones
 Si estás interesado en contribuir al proyecto, ya sea con habilidades técnicas o conocimientos en el ámbito legal, no dudes en contactarnos. Valoramos la colaboración y creemos que juntos podemos construir una herramienta poderosa para la sociedad.
 
 ## Contacto
-- **Email**: info@constitucion-ai.org
-- **Twitter**: @ConstitucionAI
+- **Email**: [hola@kemeny.studio](mailto:hola@kemeny.studio)
 
 Agradecemos tu interés en Constitucion-AI y esperamos que nuestro servicio te sea de gran utilidad para entender mejor las propuestas constitucionales y participar activamente en el futuro de tu país.
