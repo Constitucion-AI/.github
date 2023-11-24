@@ -13,7 +13,7 @@ Nuestra misión en [Constitucion.ai](https://www.constitucion.ai/) es ser un cat
 - **Accesibilidad**: Constitucion-AI estará accesible a través de una interfaz de chat web amigable, así como mediante un servicio a través de WhatsApp, para llegar a una audiencia amplia y diversa.
 
 ## Cómo Funciona
-1. **Recopilación de Datos**: Recogemos propuestas constitucionales de fuentes abiertas y confiables.
+1. **Recopilación de Datos**: Constitucion.AI fue exclusivamente entrenado y personalizado utilizando el documento de la Propuesta Constitucional de la República de Chile, enfocándose en ofrecer interpretaciones precisas y adaptadas a cada aspecto de esta propuesta. Más en [base de conocimiento](https://github.com/Constitucion-AI/basedeconocimiento).
 2. **Procesamiento y Análisis**: Utilizamos IA para procesar el lenguaje natural y extraer información clave de los textos.
 3. **Interfaz de Usuario**: Presentamos los análisis a través de interfaces de usuario intuitivas, tanto en la web como en WhatsApp.
 
